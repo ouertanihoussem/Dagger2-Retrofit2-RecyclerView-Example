@@ -1,0 +1,102 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw720dp devices (e.g.tablets between 7" and 10") here.
+         values of this file = values of 10" tablets * 0.8
+    -->
+	
+	<!-- Dimens params for adapting screens -->
+	<dimen name="dp3">2.4dp</dimen>
+	<dimen name="dp5">4dp</dimen>
+    <dimen name="dp10">8dp</dimen>
+    <dimen name="dp15">12dp</dimen>
+    <dimen name="dp20">16dp</dimen>
+    <dimen name="dp25">20dp</dimen>
+    <dimen name="dp30">24dp</dimen>
+    <dimen name="dp32">32dp</dimen>
+    <dimen name="dp35">25.2dp</dimen>
+    <dimen name="dp40">32dp</dimen>
+    <dimen name="dp45">36dp</dimen>
+    <dimen name="dp50">40dp</dimen>
+    <dimen name="dp55">44dp</dimen>
+    <dimen name="dp60">48dp</dimen>
+    <dimen name="dp65">52dp</dimen>
+    <dimen name="dp70">56dp</dimen>
+    <dimen name="dp75">60dp</dimen>
+    <dimen name="dp80">64dp</dimen>
+    <dimen name="dp85">65.6dp</dimen>
+    <dimen name="dp90">72dp</dimen>
+    <dimen name="dp95">76dp</dimen>
+    <dimen name="dp100">80dp</dimen>
+    <dimen name="dp105">84dp</dimen>
+    <dimen name="dp110">88dp</dimen>
+    <dimen name="dp115">92dp</dimen>
+    <dimen name="dp120">96dp</dimen>
+    <dimen name="dp125">100dp</dimen>
+    <dimen name="dp130">104dp</dimen>
+    <dimen name="dp135">108dp</dimen>
+    <dimen name="dp140">112dp</dimen>
+    <dimen name="dp145">116dp</dimen>
+    <dimen name="dp150">120dp</dimen>
+    <dimen name="dp155">124dp</dimen>
+    <dimen name="dp160">128dp</dimen>
+    <dimen name="dp165">132dp</dimen>
+    <dimen name="dp170">136dp</dimen>
+    <dimen name="dp175">140dp</dimen>
+    <dimen name="dp180">144dp</dimen>
+    <dimen name="dp185">148dp</dimen>
+    <dimen name="dp190">152dp</dimen>
+    <dimen name="dp195">156dp</dimen>
+    <dimen name="dp200">160dp</dimen>
+    <dimen name="dp205">164dp</dimen>
+    <dimen name="dp210">168dp</dimen>
+    <dimen name="dp215">172dp</dimen>
+    <dimen name="dp220">176dp</dimen>
+    <dimen name="dp225">180dp</dimen>
+    <dimen name="dp230">184dp</dimen>
+    <dimen name="dp235">188dp</dimen>
+    <dimen name="dp240">192dp</dimen>
+    <dimen name="dp245">196dp</dimen>
+    <dimen name="dp250">200dp</dimen>
+    <dimen name="dp255">204dp</dimen>
+    <dimen name="dp260">208dp</dimen>
+    <dimen name="dp265">212dp</dimen>
+    <dimen name="dp270">216dp</dimen>
+    <dimen name="dp275">220dp</dimen>
+    <dimen name="dp280">224dp</dimen>
+    <dimen name="dp285">228dp</dimen>
+    <dimen name="dp290">232dp</dimen>
+    <dimen name="dp295">236dp</dimen>
+    <dimen name="dp300">240dp</dimen>
+    <dimen name="dp320">256dp</dimen>
+    <dimen name="dp330">264dp</dimen>
+    <dimen name="dp350">280dp</dimen>
+    <dimen name="dp360">288dp</dimen>
+    <dimen name="dp370">296dp</dimen>
+    <dimen name="dp380">304dp</dimen>
+    <dimen name="dp400">320dp</dimen>
+    <dimen name="dp420">336dp</dimen>
+    <dimen name="dp450">360dp</dimen>
+    <dimen name="dp460">368dp</dimen>
+    <dimen name="dp470">376dp</dimen>
+    <dimen name="dp480">384dp</dimen>
+    <dimen name="dp500">400dp</dimen>
+    <dimen name="dp550">440dp</dimen>
+    <dimen name="dp600">480dp</dimen>
+    <dimen name="dp640">512dp</dimen>
+    <dimen name="dp650">520dp</dimen>
+    <dimen name="dp680">544dp</dimen>
+    <dimen name="dp690">483dp</dimen>
+    <dimen name="dp700">552dp</dimen>
+    <dimen name="dp750">600dp</dimen>
+    <dimen name="dp800">640dp</dimen>
+    <dimen name="dp850">680dp</dimen>
+    <dimen name="dp900">720dp</dimen>
+    <dimen name="dp950">760dp</dimen>
+    <dimen name="dp960">768dp</dimen>
+    <dimen name="dp1000">800dp</dimen>
+    <dimen name="dp1080">864dp</dimen>
+    <dimen name="dp1100">880dp</dimen>
+    <dimen name="dp1200">960dp</dimen>
+</resources>

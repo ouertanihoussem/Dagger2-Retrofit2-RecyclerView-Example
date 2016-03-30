@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CoemyGroupHero</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="marvel">Marvel</string>
+    <string name="network_error">Une erreur s\'est produite !\nVérifiez votre connexion internet.</string>
+    <string name="sign_in">CONNEXION</string>
+    <string name="i_connect">Je me connecte</string>
+    <string name="required_login_password">Login / mot de passe obligatoire</string>
+    <string name="wrong_login_password">Login / mot de passe incorrect</string>
+    <string name="test">test</string>
+</resources>

@@ -1,0 +1,137 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw400dp devices (e.g. new Nexus 7 1920x1200, 640dpx400dp) in landscape here.
+    -->
+
+    
+    <!-- Dimens params for adapting screens -->
+    <dimen name="dp3">1.5dp</dimen>
+    <dimen name="dp5">2.5dp</dimen>
+    <dimen name="dp10">5dp</dimen>
+    <dimen name="dp15">7.5dp</dimen>
+    <dimen name="dp20">10dp</dimen>
+    <dimen name="dp25">12.5dp</dimen>
+    <dimen name="dp30">15dp</dimen>
+    <dimen name="dp32">16dp</dimen>
+    <dimen name="dp35">17.5dp</dimen>
+    <dimen name="dp40">20dp</dimen>
+    <dimen name="dp45">22.5dp</dimen>
+    <dimen name="dp50">25dp</dimen>
+    <dimen name="dp55">27.5dp</dimen>
+    <dimen name="dp60">30dp</dimen>
+    <dimen name="dp65">32.5dp</dimen>
+    <dimen name="dp70">35dp</dimen>
+    <dimen name="dp75">37.5dp</dimen>
+    <dimen name="dp80">40dp</dimen>
+    <dimen name="dp85">42.5dp</dimen>
+    <dimen name="dp90">45dp</dimen>
+    <dimen name="dp95">47.5dp</dimen>
+    <dimen name="dp100">50dp</dimen>
+    <dimen name="dp105">52.5dp</dimen>
+    <dimen name="dp110">55dp</dimen>
+    <dimen name="dp115">57.5dp</dimen>
+    <dimen name="dp120">60dp</dimen>
+    <dimen name="dp125">62.5dp</dimen>
+    <dimen name="dp130">65dp</dimen>
+    <dimen name="dp135">67.5dp</dimen>
+    <dimen name="dp140">70dp</dimen>
+    <dimen name="dp145">72.5dp</dimen>
+    <dimen name="dp150">75dp</dimen>
+    <dimen name="dp155">77.5dp</dimen>
+    <dimen name="dp160">80dp</dimen>
+    <dimen name="dp165">82.5dp</dimen>
+    <dimen name="dp170">85dp</dimen>
+    <dimen name="dp175">87.5dp</dimen>
+    <dimen name="dp180">90dp</dimen>
+    <dimen name="dp185">92.5dp</dimen>
+    <dimen name="dp190">95dp</dimen>
+    <dimen name="dp195">97.5dp</dimen>
+    <dimen name="dp200">100dp</dimen>
+    <dimen name="dp205">102.5dp</dimen>
+    <dimen name="dp210">105dp</dimen>
+    <dimen name="dp215">107.5dp</dimen>
+    <dimen name="dp220">110dp</dimen>
+    <dimen name="dp225">112.5dp</dimen>
+    <dimen name="dp230">115dp</dimen>
+    <dimen name="dp235">117.5dp</dimen>
+    <dimen name="dp240">120dp</dimen>
+    <dimen name="dp245">122.5dp</dimen>
+    <dimen name="dp250">125dp</dimen>
+    <dimen name="dp255">127.5dp</dimen>
+    <dimen name="dp260">130dp</dimen>
+    <dimen name="dp265">132.5dp</dimen>
+    <dimen name="dp270">135dp</dimen>
+    <dimen name="dp275">137.5dp</dimen>
+    <dimen name="dp280">140dp</dimen>
+    <dimen name="dp285">142.5dp</dimen>
+    <dimen name="dp290">145dp</dimen>
+    <dimen name="dp295">147.5dp</dimen>
+    <dimen name="dp300">150dp</dimen>
+    <dimen name="dp320">160dp</dimen>
+    <dimen name="dp330">165dp</dimen>
+    <dimen name="dp350">175dp</dimen>
+    <dimen name="dp360">180dp</dimen>
+    <dimen name="dp370">185dp</dimen>
+    <dimen name="dp380">190dp</dimen>
+    <dimen name="dp400">200dp</dimen>
+    <dimen name="dp420">210dp</dimen>
+    <dimen name="dp450">225dp</dimen>
+    <dimen name="dp460">230dp</dimen>
+    <dimen name="dp470">235dp</dimen>
+    <dimen name="dp480">240dp</dimen>
+    <dimen name="dp500">250dp</dimen>
+    <dimen name="dp550">275dp</dimen>
+    <dimen name="dp600">300dp</dimen>
+    <dimen name="dp640">320dp</dimen>
+    <dimen name="dp650">325dp</dimen>
+    <dimen name="dp680">340dp</dimen>
+    <dimen name="dp690">345dp</dimen>
+    <dimen name="dp700">350dp</dimen>
+    <dimen name="dp750">375dp</dimen>
+    <dimen name="dp800">400dp</dimen>
+    <dimen name="dp850">425dp</dimen>
+    <dimen name="dp900">450dp</dimen>
+    <dimen name="dp950">475dp</dimen>
+    <dimen name="dp960">480dp</dimen>
+    <dimen name="dp1000">500dp</dimen>
+    <dimen name="dp1080">540dp</dimen>
+    <dimen name="dp1100">550dp</dimen>
+    <dimen name="dp1200">600dp</dimen>
+    
+    <!-- Dimens params for adapting screens -->
+    <dimen name="sp5">2.5sp</dimen>
+    <dimen name="sp7">3.5sp</dimen>
+    <dimen name="sp8">4sp</dimen>
+    <dimen name="sp10">5sp</dimen>
+    <dimen name="sp12">6sp</dimen>
+    <dimen name="sp14">7sp</dimen>
+    <dimen name="sp15">7.5sp</dimen>
+    <dimen name="sp16">8sp</dimen>
+    <dimen name="sp18">9sp</dimen>
+    <dimen name="sp20">10sp</dimen>
+    <dimen name="sp22">11sp</dimen>
+    <dimen name="sp25">12.5sp</dimen>
+    <dimen name="sp28">14sp</dimen>
+    <dimen name="sp30">15sp</dimen>
+    <dimen name="sp32">16sp</dimen>
+    <dimen name="sp35">17.5sp</dimen>
+    <dimen name="sp40">20sp</dimen>
+    <dimen name="sp45">22.5sp</dimen>
+    <dimen name="sp50">25sp</dimen>
+    <dimen name="sp55">27.5sp</dimen>
+    <dimen name="sp60">30sp</dimen>
+    <dimen name="sp65">32.5sp</dimen>
+    <dimen name="sp70">35sp</dimen>
+    <dimen name="sp75">37.5sp</dimen>
+    <dimen name="sp80">40sp</dimen>
+    <dimen name="sp85">42.5sp</dimen>
+    <dimen name="sp90">45sp</dimen>
+    <dimen name="sp95">47.5sp</dimen>
+    <dimen name="sp100">50sp</dimen>
+    <dimen name="sp105">50.25sp</dimen>
+    <dimen name="sp110">55sp</dimen>
+    <dimen name="sp115">57.5sp</dimen>
+    <dimen name="sp120">60sp</dimen>
+</resources>
