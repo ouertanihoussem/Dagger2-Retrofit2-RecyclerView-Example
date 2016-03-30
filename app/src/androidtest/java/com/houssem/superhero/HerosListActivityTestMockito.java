@@ -1,4 +1,4 @@
-package com.houssem.coemygrouphero;
+package com.houssem.superhero;
 
 
 import org.junit.After;
