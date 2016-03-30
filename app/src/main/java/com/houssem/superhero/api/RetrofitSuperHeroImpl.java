@@ -1,8 +1,8 @@
-package com.houssem.coemygrouphero.api;
+package com.houssem.superhero.api;
 
-import com.houssem.coemygrouphero.api.callbacks.RetrofitCallback;
-import com.houssem.coemygrouphero.dagger.Application;
-import com.houssem.coemygrouphero.pojo.Heros;
+import com.houssem.superhero.api.callbacks.RetrofitCallback;
+import com.houssem.superhero.dagger.Application;
+import com.houssem.superhero.pojo.Heros;
 
 import javax.inject.Inject;
 

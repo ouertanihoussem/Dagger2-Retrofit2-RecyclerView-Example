@@ -1,8 +1,9 @@
-package com.houssem.coemygrouphero;
+package com.houssem.superhero;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+
 
 public abstract class AbstractActivity extends AppCompatActivity {
 

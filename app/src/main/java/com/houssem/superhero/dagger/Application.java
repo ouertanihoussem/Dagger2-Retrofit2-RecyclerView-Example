@@ -1,11 +1,11 @@
-package com.houssem.coemygrouphero.dagger;
+package com.houssem.superhero.dagger;
 
-import com.houssem.coemygrouphero.dagger.component.ContextComponent;
-import com.houssem.coemygrouphero.dagger.modules.ContextModule;
-import com.houssem.coemygrouphero.dagger.modules.ServiceCreatorModule;
-import com.houssem.coemygrouphero.dagger.component.SuperHeroComponent;
-import com.houssem.coemygrouphero.dagger.component.DaggerSuperHeroComponent;
-import com.houssem.coemygrouphero.dagger.component.DaggerContextComponent;
+import com.houssem.superhero.dagger.component.ContextComponent;
+import com.houssem.superhero.dagger.modules.ContextModule;
+import com.houssem.superhero.dagger.modules.ServiceCreatorModule;
+import com.houssem.superhero.dagger.component.SuperHeroComponent;
+import com.houssem.superhero.dagger.component.DaggerSuperHeroComponent;
+import com.houssem.superhero.dagger.component.DaggerContextComponent;
 
 /**
  * Created by Formation on 25/03/2016.

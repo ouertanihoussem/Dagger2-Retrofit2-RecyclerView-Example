@@ -1,4 +1,4 @@
-package com.houssem.coemygrouphero.api.callbacks;
+package com.houssem.superhero.api.callbacks;
 
 import retrofit.Response;
 

@@ -1,4 +1,4 @@
-package com.houssem.coemygrouphero.pojo;
+package com.houssem.superhero.pojo;
 
 import java.io.Serializable;
 

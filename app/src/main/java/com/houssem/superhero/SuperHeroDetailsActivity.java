@@ -1,10 +1,10 @@
-package com.houssem.coemygrouphero;
+package com.houssem.superhero;
 
 import android.util.Log;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.houssem.coemygrouphero.pojo.Hero;
+import com.houssem.superhero.pojo.Hero;
 import com.squareup.picasso.Picasso;
 
 /**

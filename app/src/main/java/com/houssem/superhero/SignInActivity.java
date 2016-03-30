@@ -1,4 +1,4 @@
-package com.houssem.coemygrouphero;
+package com.houssem.superhero;
 
 import android.content.Intent;
 import android.view.View;
@@ -6,7 +6,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.houssem.coemygrouphero.utils.Storage;
+import com.houssem.superhero.utils.Storage;
 
 /**
  * Created by Formation on 25/03/2016.

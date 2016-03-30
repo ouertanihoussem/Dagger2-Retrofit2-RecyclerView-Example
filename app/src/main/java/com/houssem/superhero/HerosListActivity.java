@@ -1,14 +1,14 @@
-package com.houssem.coemygrouphero;
+package com.houssem.superhero;
 
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import com.houssem.coemygrouphero.adapters.SuperHeroListAdapter;
-import com.houssem.coemygrouphero.api.RetrofitSuperHeroImpl;
-import com.houssem.coemygrouphero.api.callbacks.ResponseListener;
-import com.houssem.coemygrouphero.api.callbacks.RetrofitCallback;
-import com.houssem.coemygrouphero.pojo.Hero;
-import com.houssem.coemygrouphero.pojo.Heros;
+import com.houssem.superhero.adapters.SuperHeroListAdapter;
+import com.houssem.superhero.api.RetrofitSuperHeroImpl;
+import com.houssem.superhero.api.callbacks.ResponseListener;
+import com.houssem.superhero.api.callbacks.RetrofitCallback;
+import com.houssem.superhero.pojo.Hero;
+import com.houssem.superhero.pojo.Heros;
 
 import java.util.Collections;
 import java.util.Comparator;

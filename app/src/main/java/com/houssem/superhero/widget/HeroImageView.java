@@ -1,4 +1,4 @@
-package com.houssem.coemygrouphero.widget;
+package com.houssem.superhero.widget;
 
 import android.content.Context;
 import android.util.AttributeSet;

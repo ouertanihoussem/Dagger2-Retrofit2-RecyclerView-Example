@@ -14,7 +14,7 @@
 * limitations under the License.
 */
 
-package com.houssem.coemygrouphero.widget;
+package com.houssem.superhero.widget;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
@@ -27,7 +27,6 @@ import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.LayerDrawable;
 import android.net.Uri;
-import android.os.Build;
 import android.support.annotation.ColorInt;
 import android.support.annotation.DimenRes;
 import android.support.annotation.DrawableRes;
@@ -35,7 +34,7 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.widget.ImageView;
 
-import com.houssem.coemygrouphero.R;
+import com.houssem.superhero.R;
 
 @SuppressWarnings("UnusedDeclaration")
 public class RoundedImageView extends ImageView {

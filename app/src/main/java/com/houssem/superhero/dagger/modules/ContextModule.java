@@ -1,4 +1,4 @@
-package com.houssem.coemygrouphero.dagger.modules;
+package com.houssem.superhero.dagger.modules;
 
 /**
  * Created by Formation on 25/03/2016.

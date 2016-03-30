@@ -1,7 +1,7 @@
-package com.houssem.coemygrouphero.dagger.component;
+package com.houssem.superhero.dagger.component;
 
-import com.houssem.coemygrouphero.api.RetrofitSuperHeroImpl;
-import com.houssem.coemygrouphero.dagger.modules.ServiceCreatorModule;
+import com.houssem.superhero.api.RetrofitSuperHeroImpl;
+import com.houssem.superhero.dagger.modules.ServiceCreatorModule;
 
 import javax.inject.Singleton;
 

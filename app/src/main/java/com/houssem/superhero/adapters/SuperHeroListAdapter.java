@@ -1,4 +1,4 @@
-package com.houssem.coemygrouphero.adapters;
+package com.houssem.superhero.adapters;
 
 import android.content.Intent;
 import android.content.res.ColorStateList;
@@ -13,9 +13,9 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.houssem.coemygrouphero.R;
-import com.houssem.coemygrouphero.SuperHeroDetailsActivity;
-import com.houssem.coemygrouphero.pojo.Hero;
+import com.houssem.superhero.R;
+import com.houssem.superhero.SuperHeroDetailsActivity;
+import com.houssem.superhero.pojo.Hero;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;

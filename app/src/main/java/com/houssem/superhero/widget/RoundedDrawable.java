@@ -14,7 +14,7 @@
 * limitations under the License.
 */
 
-package com.houssem.coemygrouphero.widget;
+package com.houssem.superhero.widget;
 
 import android.content.res.ColorStateList;
 import android.graphics.Bitmap;

@@ -1,4 +1,4 @@
-package com.houssem.coemygrouphero.utils;
+package com.houssem.superhero.utils;
 
 /**
  * Created by Formation on 25/03/2016.
@@ -7,7 +7,7 @@ package com.houssem.coemygrouphero.utils;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import com.houssem.coemygrouphero.dagger.Application;
+import com.houssem.superhero.dagger.Application;
 
 import javax.inject.Inject;
 

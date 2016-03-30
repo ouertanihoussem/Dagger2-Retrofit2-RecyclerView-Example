@@ -1,7 +1,7 @@
-package com.houssem.coemygrouphero.dagger.component;
+package com.houssem.superhero.dagger.component;
 
-import com.houssem.coemygrouphero.dagger.modules.ContextModule;
-import com.houssem.coemygrouphero.utils.Storage;
+import com.houssem.superhero.dagger.modules.ContextModule;
+import com.houssem.superhero.utils.Storage;
 
 import javax.inject.Singleton;
 

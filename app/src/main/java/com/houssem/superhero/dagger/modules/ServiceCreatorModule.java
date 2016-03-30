@@ -1,7 +1,7 @@
-package com.houssem.coemygrouphero.dagger.modules;
+package com.houssem.superhero.dagger.modules;
 
 
-import com.houssem.coemygrouphero.api.RetrofitSuperHeroImpl;
+import com.houssem.superhero.api.RetrofitSuperHeroImpl;
 import com.squareup.okhttp.Interceptor;
 import com.squareup.okhttp.OkHttpClient;
 

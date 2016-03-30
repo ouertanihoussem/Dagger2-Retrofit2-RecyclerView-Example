@@ -1,4 +1,4 @@
-package com.houssem.coemygrouphero.widget;
+package com.houssem.superhero.widget;
 
 import android.support.annotation.IntDef;
 import java.lang.annotation.Retention;
