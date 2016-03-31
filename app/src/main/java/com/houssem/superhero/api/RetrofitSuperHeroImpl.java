@@ -18,7 +18,7 @@ public class RetrofitSuperHeroImpl implements SuperHero{
     SuperHeroService superHeroService;
 
     public interface SuperHeroService {
-        String baseURL = "your_base_url_here"; // example http://houssem.fr
+        String baseURL = "http://coemygroup.fr"; // example http://houssem.fr
         /**
          * Method to load the list of super heros from a remote json file (test2.json)
          */

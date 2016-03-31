@@ -43,7 +43,7 @@ public class HerosListActivityTestEspresso {
     }
 
     @Test
-    public void changeActivityOnHerosListItemClick() {
+    public void ClickOnHeroListItem_ShouldLanchSuperHeroDetailsActivity() {
         onView(withId(R.id.heros)).perform(RecyclerViewActions.actionOnItemAtPosition(0, click()));
         Intents.init();
         mActivityRule.launchActivity(new Intent(InstrumentationRegistry.getTargetContext(), SuperHeroDetailsActivity.class));
@@ -52,7 +52,7 @@ public class HerosListActivityTestEspresso {
     }
 
     @Test
-    public void checkTitleDisplayed(){
+    public void checkToolbarTitleDisplayed(){
         matchToolbarTitle(validTitle);
     }
 

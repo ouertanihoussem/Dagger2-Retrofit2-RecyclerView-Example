@@ -19,7 +19,7 @@
             android:padding="@dimen/dp20"
             android:orientation="vertical">
 
-            <com.houssem.coemygrouphero.widget.HeroImageView
+            <com.houssem.superhero.widget.HeroImageView
                 android:id="@+id/imageView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
