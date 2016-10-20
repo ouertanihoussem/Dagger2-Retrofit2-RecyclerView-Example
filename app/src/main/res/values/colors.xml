@@ -17,6 +17,6 @@
     <color name="blue">#0000FF</color>
     <color name="teal">#008080</color>
     <color name="aqua">#00FFFF</color>
-    <color name="PrimaryColor">#66C0C0C0</color>
+    <color name="PrimaryColor">#C0C0C0</color>
     <color name="PrimaryDarkColor">#808080</color>
 </resources>
